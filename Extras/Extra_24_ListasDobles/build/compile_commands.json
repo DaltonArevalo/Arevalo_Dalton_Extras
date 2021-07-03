@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Extras/Extra_24_ListasDobles/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\DALTON AREVALO\\Desktop\\u\\Estructura de Datos\\Trabajo_Individual\\Dalton-Arevalo-Estructura-de-datos-NRC-3685\\Extras\\Extra_24_ListasDobles\\main.cpp\"",
+  "file": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Extras/Extra_24_ListasDobles/main.cpp"
+},
+{
+  "directory": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Extras/Extra_24_ListasDobles/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\date.cpp.obj -c \"C:\\Users\\DALTON AREVALO\\Desktop\\u\\Estructura de Datos\\Trabajo_Individual\\Dalton-Arevalo-Estructura-de-datos-NRC-3685\\Extras\\Extra_24_ListasDobles\\date.cpp\"",
+  "file": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Extras/Extra_24_ListasDobles/date.cpp"
+}
+]

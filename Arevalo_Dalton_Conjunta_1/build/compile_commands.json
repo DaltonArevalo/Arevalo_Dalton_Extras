@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\DALTON AREVALO\\Desktop\\u\\Estructura de Datos\\Trabajo_Individual\\Dalton-Arevalo-Estructura-de-datos-NRC-3685\\Arevalo_Dalton_Conjunta_1\\main.cpp\"",
+  "file": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/main.cpp"
+},
+{
+  "directory": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\main.dir\\menu_option.cpp.obj -c \"C:\\Users\\DALTON AREVALO\\Desktop\\u\\Estructura de Datos\\Trabajo_Individual\\Dalton-Arevalo-Estructura-de-datos-NRC-3685\\Arevalo_Dalton_Conjunta_1\\menu_option.cpp\"",
+  "file": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/menu_option.cpp"
+},
+{
+  "directory": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\main.dir\\menu.cpp.obj -c \"C:\\Users\\DALTON AREVALO\\Desktop\\u\\Estructura de Datos\\Trabajo_Individual\\Dalton-Arevalo-Estructura-de-datos-NRC-3685\\Arevalo_Dalton_Conjunta_1\\menu.cpp\"",
+  "file": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/menu.cpp"
+},
+{
+  "directory": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\main.dir\\person.cpp.obj -c \"C:\\Users\\DALTON AREVALO\\Desktop\\u\\Estructura de Datos\\Trabajo_Individual\\Dalton-Arevalo-Estructura-de-datos-NRC-3685\\Arevalo_Dalton_Conjunta_1\\person.cpp\"",
+  "file": "C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/person.cpp"
+}
+]

@@ -1,0 +1,6 @@
+# CMake generated Testfile for 
+# Source directory: C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1
+# Build directory: C:/Users/DALTON AREVALO/Desktop/u/Estructura de Datos/Trabajo_Individual/Dalton-Arevalo-Estructura-de-datos-NRC-3685/Arevalo_Dalton_Conjunta_1/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.

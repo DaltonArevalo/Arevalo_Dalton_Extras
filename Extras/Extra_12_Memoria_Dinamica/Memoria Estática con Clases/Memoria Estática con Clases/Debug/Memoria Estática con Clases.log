@@ -1,0 +1,11 @@
+﻿  Matriz.cpp
+  Memoria Estática con Clases.cpp
+  Operaciones.cpp
+C:\Users\renat\source\repos\Memoria Estática con Clases\Memoria Estática con Clases\Operaciones.cpp(53,20): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\renat\source\repos\Memoria Estática con Clases\Memoria Estática con Clases\Operaciones.cpp(53,33): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\renat\source\repos\Memoria Estática con Clases\Memoria Estática con Clases\Operaciones.cpp(53,33): message : los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+  Generando código...
+C:\Users\renat\source\repos\Memoria Estática con Clases\Memoria Estática con Clases\Operaciones.cpp(27): error C4700: se utilizó la variable local 'matriz' sin inicializar
+C:\Users\renat\source\repos\Memoria Estática con Clases\Memoria Estática con Clases\Memoria Estática con Clases.cpp(13): error C4700: se utilizó la variable local 'c' sin inicializar
+C:\Users\renat\source\repos\Memoria Estática con Clases\Memoria Estática con Clases\Memoria Estática con Clases.cpp(13): error C4700: se utilizó la variable local 'b' sin inicializar
+C:\Users\renat\source\repos\Memoria Estática con Clases\Memoria Estática con Clases\Memoria Estática con Clases.cpp(13): error C4700: se utilizó la variable local 'a' sin inicializar
